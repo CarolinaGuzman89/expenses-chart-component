@@ -18,7 +18,7 @@ export default function Graph() {
                     <p className='text-sm'>Total this month</p>
                     <p className='font-bold text-2xl'>$478.33</p>
                 </div>
-                <div className='text-sm leading-6 text-right'>
+                <div className='text-sm leading-6 text-right pb-10'>
                     <p className='font-bold'>+2.4%</p>
                     <p >from last month</p>
                 </div>
