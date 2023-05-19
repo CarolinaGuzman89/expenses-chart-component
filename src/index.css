@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Manrope, Roboto, Rubik, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color:  hsl(25, 47%, 15%);
+  background-color: hsl(27, 66%, 92%);
+
+}
+
+
+body {
+  margin: 0;
+  padding: 5%;
+  min-width: 375px;
+  min-height: 100vh;
+  font-size: 18px;
+}
+
+
+.balance{
+  background-color: hsl(10, 79%, 65%);
+  color:hsl(33, 100%, 98%)
+}
+
